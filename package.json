@@ -1,0 +1,24 @@
+{
+  "name": "kazyload",
+  "version": "0.0.1",
+  "description": "An image laze load module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keifergu/kazyload.git"
+  },
+  "keywords": [
+    "kazyload",
+    "image",
+    "lazyload"
+  ],
+  "author": "Keifer Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keifergu/kazyload/issues"
+  },
+  "homepage": "https://github.com/keifergu/kazyload#readme"
+}
